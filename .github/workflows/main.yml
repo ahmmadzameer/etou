@@ -7,7 +7,7 @@ on:
 env:
   IMAGE_TAG: v0.1
   AWS_REGION: ap-south-1
-  REPOSITORY_URI: 319509686582.dkr.ecr.ap-south-1.amazonaws.com
+  REPOSITORY_URI: 319509686582.dkr.ecr.ap-south-1.amazonaws.com/ecomm-git
   CLUSTER_NAME: my-cluster11  # <-- replace with your actual EKS cluster name
   K8S_NAMESPACE: default
 
